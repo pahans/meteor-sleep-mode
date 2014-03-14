@@ -1,0 +1,8 @@
+{
+  "name": "sleep-mode",
+  "description": "detect user sleep mode for meteor ",
+  "homepage": "https://github.com/pahans/meteor-sleep-mode",
+  "author": "Pahan Sarathchandra <pahan123@gmail.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/pahans/meteor-sleep-mode.git"
+}
